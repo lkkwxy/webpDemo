@@ -105,8 +105,7 @@ if let url = URL(string:"http://q21556z4z.bkt.clouddn.com/123.webp?e=1575537931&
 ```
 ### 补充
 虽说上面的代码都比较简单，但是我感觉Kingfisher的这个设计真的挺好的，可扩展支持任意类型的图片，并且Processor是用来加工处理图片的，能做的还有其他方面，比如Kingfisher中提供了多种实现类，比如圆角的RoundCornerImageProcessor，显示高清图的DownsamplingImageProcessor，组装多种Processor的GeneralProcessor。
-[demo下载地址]()
 ### 参考
-[SDWebImageWebPCoder](https://github.com/SDWebImage/SDWebImageWebPCoder)
-[移动端图片格式调研](https://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
-[libwebp](https://developers.google.com/speed/webp/)
+[SDWebImageWebPCoder](https://github.com/SDWebImage/SDWebImageWebPCoder)    
+[移动端图片格式调研](https://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)    
+[libwebp](https://developers.google.com/speed/webp/)    
