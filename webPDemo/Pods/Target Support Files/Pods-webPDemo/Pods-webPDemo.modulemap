@@ -1,0 +1,6 @@
+framework module Pods_webPDemo {
+  umbrella header "Pods-webPDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
